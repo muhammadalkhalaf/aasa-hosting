@@ -1,0 +1,22 @@
+{
+  "appclips": {
+      "apps": ["YP5ST36H3J.net.medrics.va.lighthouse.internal.Clip",
+               "YP5ST36H3J.net.medrics.va.lighthouse.Clip"]
+  }
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "YP5ST36H3J.net.medrics.va.lighthouse.internal",
+          "YP5ST36H3J.net.medrics.va.lighthouse"
+        ],
+        "components": [
+          {
+            "/": "/indoor?*",
+            "comment": "redirect to indoor navigation"
+          }
+        ]
+      }
+    ]
+  }
+}
